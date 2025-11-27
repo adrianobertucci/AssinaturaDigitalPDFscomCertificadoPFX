@@ -59,7 +59,7 @@ public class AssinaturaDigMavenNetBeans {
     public static void main(String[] args) throws Exception 
     {
         String pathApp = "/Users/adrianobertucci/Documents/Projetos/Nuclearis/DemoAssinaturaDigital/AssinaturaDigMavenNetBeans/src/main/java/com/mycompany/assinaturadigmavennetbeans/";
-       
+        String Password = "asds1312312"
       try 
       {
 // <editor-fold desc="Carrega o certificado .PFX para assinatura do arquivo PDF">  
